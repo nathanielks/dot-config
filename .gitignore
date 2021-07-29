@@ -1,0 +1,4 @@
+/*
+!.gitignore
+!lvim
+lvim/plugin/packer_compiled.lua
