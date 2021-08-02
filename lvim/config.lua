@@ -98,3 +98,4 @@ lvim.builtin.which_key.mappings["A"] = {
   v = { ":AV<cr>", "Open Alternate in vertical split" },
 }
 lvim.builtin.which_key.mappings["z"] = { "<cmd>ZenMod<CR>", "Zen Mode" }
+lvim.builtin.which_key.mappings["v"] = { "<cmd>vs<CR>", "Split vertically" }
